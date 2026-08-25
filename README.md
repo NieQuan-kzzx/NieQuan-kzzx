@@ -21,12 +21,8 @@
 
   Email: 15971383565@163.com
 
-  ## 📝 Blog Introduction
+  ## 📝 Blog
   URL: https://www.kzzxisgod.top
-
-  **Briefly describe**
-
-  在这里记录和分享技术，督促自己学习和进步。
 
   ## 💬 Quote of the Day
   > “Life is a coding, I will debug it”
