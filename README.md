@@ -1,94 +1,42 @@
-- # Hi there, I'm [NieQuan] 👋
+- # Hi there, I'm 聂权(NieQuan-kzzx) 👋
 
   ## 👨‍💻 About Me
-  - 🔭 I'm currently studying on []
-  - 🌱 I'm currently learning [Technology/Skill you're learning]
-  - 👯 I'm looking to collaborate on [Type of projects you want to collaborate on]
-  - 🤔 I'm looking for help with [What you need help with]
-  - 💬 Ask me about [Topics you're knowledgeable about]
-  - 📫 How to reach me: [Your Email/LinkedIn/Twitter]
-  - 😄 Pronouns: [Your pronouns]
-  - ⚡ Fun fact: [Something interesting about you]
+  - 🔭 I am currently pursuing my graduate studies at Nanjing University of Aeronautics and Astronautics
+
+  - 🌱 I'm currently learning Linux,RISC-V,AI
+
+  - 👯 I'm looking to collaborate on On-device AI
+
+  - 📫 How to reach me: 15971383565@163.com
+
+  - 😄 Pronouns: kzzx
+
+  - ⚡ Bolg: www.kzzxisgod.top
 
   ## 🛠️ Technologies & Tools
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode,html,css,docker,aws)](https://skillicons.dev)
-
-  ## 📊 GitHub Stats
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![My Skills](https://skillicons.dev/icons?i=c,linux,cmake,git,github,vscode,docker)](https://skillicons.dev)
 
   ## 🏆 GitHub Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=NieQuan-kzzx&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
   ## 🔗 Connect with me
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32" />](https://linkedin.com/in/yourusername)
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="32" height="32" />](https://twitter.com/yourusername)
-  [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="32" height="32" />](https://instagram.com/yourusername)
-  [<img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="32" height="32" />](https://t.me/yourusername)
+  Vx: kzzxisgod
 
-  ## 📝 Latest Blog Posts
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+  Email: 15971383565@163.com
 
-  ## 📝 Latest GitHub Activity
-  <!--START_SECTION:activity-->
-  1. 🎉 Opened PR [#123](https://github.com/yourusername/your-repo/pull/123) in [your-repo](https://github.com/yourusername/your-repo)
-  2. 💬 Commented on [#456](https://github.com/otheruser/other-repo/issues/456) in [other-repo](https://github.com/otheruser/other-repo)
-  3. 📦 Published [package-name](https://www.npmjs.com/package/package-name) v1.0.0
-  <!--END_SECTION:activity-->
+  ## 📝 Blog Introduction
+  URL: https://www.kzzxisgod.top
 
-  ## 📚 Currently Reading
-  - [Book Title 1](https://example.com/book1)
-  - [Book Title 2](https://example.com/book2)
+  **Briefly describe**
 
-  ## 🎵 Currently Listening To
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-
-  ## 📊 WakaTime Stats
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  在这里记录和分享技术，督促自己学习和进步。
 
   ## 🚀 Projects
-  ### [Project 1: Awesome Project](https://github.com/yourusername/project1)
-  Brief description of your project.
+  ### [NieQuan-kzzx/RDKS100_Drowning: 地平线RDKS100P部署AI模型，这里记录整个框架](https://github.com/NieQuan-kzzx/RDKS100_Drowning)
+  这里记录了 RDKS100P 端侧平台的AI视觉模型部署的方法，主要针对 YOLO 系列、Deeplabv3等。
 
-  ### [Project 2: Another Great Project](https://github.com/yourusername/project2)
-  Brief description of your project.
-
-  ### [Project 3: Open Source Contribution](https://github.com/otheruser/project3)
-  Brief description of your contribution.
+  ### [NieQuan-kzzx/water_level: 这个项目是移植Windows环境的水位检测，地平线的开发板使用BPU作为推理后端，特意制作了这个仓库。](https://github.com/NieQuan-kzzx/water_level)
+  这个项目是移植实验室师兄项目到 RDKS100P 板端，实现不同的端侧部署应用。
 
   ## 💬 Quote of the Day
-  > "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-  ## 📝 Random Dev Quote
-  ![Random Dev Quote](https://quotes.rest/qod.json?language=en)
-
-  ## 🎉 GitHub Contributions
-  ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github-dark)
-
-  ## 📈 GitHub Calendar
-  ![GitHub Calendar](https://github-contribution-grid-sum.vercel.app/api?username=yourusername&theme=github-dark)
-
-  ## 📝 Writing
-  - [Your Blog](https://yourblog.com)
-  - [Your Medium Profile](https://medium.com/@yourusername)
-  - [Your Dev.to Profile](https://dev.to/yourusername)
-
-  ## 📚 Courses
-  - [Course 1: Awesome Course](https://example.com/course1)
-  - [Course 2: Another Great Course](https://example.com/course2)
-
-  ## 🎓 Education
-  - [Your University/College](https://example.com/university)
-  - [Your Degree](https://example.com/degree)
-
-  ## 🏆 Certifications
-  - [Certification 1](https://example.com/cert1)
-  - [Certification 2](https://example.com/cert2)
-
-  ## 📊 Stack Overflow Stats
-  [![Stack Overflow](https://stackoverflow-card.vercel.app/?userID=your-stack-overflow-id&theme=dark)](https://stackoverflow.com/users/your-stack-overflow-id)
-
-  ## 📈 LeetCode Stats
-  [![LeetCode Stats](https://leetcode.card.workers.dev/yourusername?theme=dark&font=baloo&extension=null)](https://leetcode.com/yourusername)
+  > “Life is a coding, I will debug it”
