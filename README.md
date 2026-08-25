@@ -16,9 +16,6 @@
   ## 🛠️ Technologies & Tools
   [![My Skills](https://skillicons.dev/icons?i=c,linux,cmake,git,github,vscode,docker)](https://skillicons.dev)
 
-  ## 🏆 GitHub Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=NieQuan-kzzx&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
   ## 🔗 Connect with me
   Vx: kzzxisgod
 
