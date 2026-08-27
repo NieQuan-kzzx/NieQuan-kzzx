@@ -14,7 +14,7 @@
   - ⚡ Bolg: www.kzzxisgod.top
 
   ## 🛠️ Technologies & Tools
-  [![My Skills](https://skillicons.dev/icons?i=c,linux,cmake,git,github,vscode,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,linux,cmake,python,git,github,vscode,docker)](https://skillicons.dev)
 
   ## 🔗 Connect with me
   Vx: kzzxisgod
